@@ -6,6 +6,7 @@ get_book_by_id_url = f'{book_manager_url}/get_book_by_id'
 add_book_url = f'{book_manager_url}/add_book'
 delete_book_url = f'{book_manager_url}/delete_book'
 
+
 new_book = {
     "id": 99,
     "title": "War and Peace",
